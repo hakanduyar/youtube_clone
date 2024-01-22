@@ -1,3 +1,12 @@
+[Live Demo Link](https://65a5445a84f9c018b72d7249--sage-treacle-1f9f49.netlify.app/)
+
+
+![1](https://github.com/hakanduyar/youtube_clone/assets/79376651/4b54e193-abfb-4be8-8a69-2a0b8e2198e4)
+![2](https://github.com/hakanduyar/youtube_clone/assets/79376651/5eba6d87-76ab-44af-bba7-959e78b804ef)
+![3](https://github.com/hakanduyar/youtube_clone/assets/79376651/477b1e63-b539-408b-a42c-0488d2159177)
+![4](https://github.com/hakanduyar/youtube_clone/assets/79376651/6fd70d5b-e146-4ec1-9b4e-2492c11f7611)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
